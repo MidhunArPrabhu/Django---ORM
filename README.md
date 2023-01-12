@@ -6,9 +6,10 @@ To develop a Django application to store and retrieve data from a database using
 
 ## ENTITY RELATIONSHIP DIAGRAM :
 
-![mc](https://user-images.githubusercontent.com/118054670/212125614-6b5902b1-2683-4f1d-bfda-79301411e531.png)
+![mc](https://user-images.githubusercontent.com/118054670/212126522-d6b0e377-2b01-46a8-960b-58d81c9e58b3.png)
 
-## DESIGN STEPS
+
+## DESIGN STEPS :
 
 ### STEP 1:
 
@@ -58,4 +59,8 @@ class StudentAdmin(admin.ModelAdmin):
 
 
 
-## RESULT
+## RESULT :
+
+Thus, the experiment was executed successfully..
+
+
