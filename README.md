@@ -25,7 +25,7 @@ Upload the python code.
 push the code to github.
 
 ## PROGRAM :
-
+```
 
 admin.py:  
 
@@ -52,6 +52,7 @@ class StudentAdmin(admin.ModelAdmin):
     list_display = ('referencenumber','name','age','department','email')  
 #Register your models here.  
 
+```
 
 ## OUTPUT :
 
