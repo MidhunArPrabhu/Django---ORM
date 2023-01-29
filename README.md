@@ -1,4 +1,6 @@
-# Django ORM Web Application : 
+# # EXPERIMENT -02
+
+# DJANGO ORM WEB APPLICATION :
 
 ## AIM :
 
